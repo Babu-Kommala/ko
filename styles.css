@@ -1,0 +1,17 @@
+body {
+  background-color: 	powderblue;
+}
+hr {
+  border-style: dashed none none;
+  border-color: brown;
+  border-width: 3px;
+}
+h3 {
+  color: 	darkmagenta;
+}
+h2 {
+  color: crimson;
+}
+p{
+  color: olive;
+}
